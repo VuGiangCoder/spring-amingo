@@ -1,0 +1,6 @@
+7z * demo.zip o demo
+
+sudo -i -u postgres
+psql
+
+postgres@giangs-Nitro-AN515-51:~$ service postgresql start|stop|restart|reload|force-reload|status
