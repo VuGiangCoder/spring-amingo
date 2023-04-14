@@ -4,3 +4,6 @@ sudo -i -u postgres
 psql
 
 postgres@giangs-Nitro-AN515-51:~$ service postgresql start|stop|restart|reload|force-reload|status
+
+
+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
